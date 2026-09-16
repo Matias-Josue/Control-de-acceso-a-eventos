@@ -1,0 +1,10 @@
+{
+  "name": "reto-control-acceso",
+  "version": "1.0.0",
+  "description": "Sistema de control de acceso a evento deportivo usando JS y POO",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
